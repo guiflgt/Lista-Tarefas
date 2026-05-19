@@ -556,7 +556,7 @@ class _CalendarioScreenState extends State<CalendarioScreen>
                               'Toque em + para adicionar',
                               style: GoogleFonts.poppins(
                                 fontSize: 12,
-                                color: Colors.white20,
+                                color: Colors.white24,
                               ),
                             ),
                           ],
